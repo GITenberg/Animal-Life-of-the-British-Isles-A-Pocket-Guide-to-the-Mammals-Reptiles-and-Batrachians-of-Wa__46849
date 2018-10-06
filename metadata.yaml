@@ -26,6 +26,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Animal Life of the British Isles
 
   A Pocket Guide to the Mammals, Reptiles and Batrachians
